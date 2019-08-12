@@ -65,7 +65,7 @@ Now instead of action i am thinking about this stream in terms of search-term wh
   - Generally we map one presentation stream to one input but there is no hard rule to it.
 ###### Resource
 - [ ] [How to look your application in terms of Events](https://blog.strongbrew.io/thinking-reactively-in-angular-and-rxjs/)🧠🚀🐱‍👤
-- [ ] [The SIP Principle](https://blog.strongbrew.io/the-sip-principle/)🧠🚀🐱‍👤
+- [ ] [Thinking Reactively](https://www.youtube.com/watch?v=3LKMwkuK0ZE)🧠🚀🐱‍👤
 
 
 #### RxJS Operators
